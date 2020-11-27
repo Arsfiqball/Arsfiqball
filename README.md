@@ -16,5 +16,3 @@ I’m a tech enthusiast. I love IT and Robotics engineering. I taught myself pro
 * ResearchGate: https://www.researchgate.net/profile/Iqbal_Mohammad_Abdul_Ghoni
 * Telegram: https://web.telegram.org/#/im?p=@Arsfiqball
 * GitHub: https://github.com/Arsfiqball
-
-![Illustration](illustration.svg)
