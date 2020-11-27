@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Iqbal 👋
 
-<!--
-**Arsfiqball/Arsfiqball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a tech enthusiast. I love IT and Robotics engineering. I taught myself programming since I was 14 and choose to register as electrical engineering student to complete my knowledge. I always want to have positive impact for my surroundings through my awesome innovation.
 
-Here are some ideas to get you started:
+#### Currently Focusing on... 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My final year project at university (targeted: January 2020 📅)
+* Some mini projects for IoT and Robotics research
+* Preparing future career 
+
+#### Check Out My... 📌
+* Website: https://arsfiqball.com/
+* Twitter: https://twitter.com/Arsfiqball
+* Instagram: https://instagram.com/Arsfiqball
+* LinkedIn: https://www.linkedin.com/in/arsfiqball/
+* ResearchGate: https://www.researchgate.net/profile/Iqbal_Mohammad_Abdul_Ghoni
+* Telegram: https://web.telegram.org/#/im?p=@Arsfiqball
+* GitHub: https://github.com/Arsfiqball
+
+![Illustration](illustration.svg)
