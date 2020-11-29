@@ -4,7 +4,7 @@ I’m a tech enthusiast. I love IT and Robotics engineering. I taught myself pro
 
 #### Currently Focusing on... 🔥
 
-* My final year project at university (targeted: January 2020 📅)
+* My final year project at university (targeted: January 2021 📅)
 * Some mini projects for IoT and Robotics research
 * Preparing future career 
 
