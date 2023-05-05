@@ -13,9 +13,3 @@ I’m a tech enthusiast. I love IT and Robotics engineering. I taught myself pro
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsfiqball&layout=compact&hide_border=true&hide=html,scss,vue&langs_count=6&hide_title=true&card_width=240)](https://github.com/Arsfiqball)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Arsfiqball&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&hide_title=true&count_private=true)](https://github.com/Arsfiqball)
-
-#### Currently Focusing on... 🔥
-
-* My final year project at university (targeted: March 2021 📅)
-* Some mini projects for IoT and Robotics research
-* Preparing future career 
